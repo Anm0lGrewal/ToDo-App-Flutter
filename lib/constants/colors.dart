@@ -10,4 +10,4 @@ const Color tdBGColor = Color(0xFFEEEFF5);
 
 const Color realBlack = Color.fromARGB(255, 36, 35, 40);
 
-const Color realpurple = Color.fromARGB(255, 175, 103, 193);
+const Color realpurple = Color.fromARGB(255, 175, 103, 193); 
